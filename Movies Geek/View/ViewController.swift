@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+ 
 class ViewController: UIViewController {
 
     @IBOutlet weak var movieTableView: UITableView!
@@ -56,7 +56,7 @@ class ViewController: UIViewController {
                 movie.image = nil
             }
         }
-    } 
+    }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)

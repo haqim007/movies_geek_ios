@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_Movies_GeekTestsVersionString[];
+ extern const double Pods_Movies_GeekTestsVersionNumber;
+
+ const unsigned char Pods_Movies_GeekTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Movies_GeekTests  PROJECT:Pods-1" "\n";
+ const double Pods_Movies_GeekTestsVersionNumber __attribute__ ((used)) = (double)1.;

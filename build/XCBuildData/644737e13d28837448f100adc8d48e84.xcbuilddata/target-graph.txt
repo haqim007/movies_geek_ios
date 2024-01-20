@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'Pods-Movies GeekTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-Movies Geek' in project 'Pods'
+Target 'Pods-Movies Geek-Movies GeekUITests' in project 'Pods'
+➜ Explicit dependency on target 'SwiftLint' in project 'Pods'
+Target 'Pods-Movies Geek' in project 'Pods'
+➜ Explicit dependency on target 'SwiftLint' in project 'Pods'
+Target 'SwiftLint' in project 'Pods' (no dependencies)

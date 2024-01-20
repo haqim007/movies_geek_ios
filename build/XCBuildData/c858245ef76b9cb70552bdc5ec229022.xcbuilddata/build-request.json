@@ -1,0 +1,50 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9871ac061d851b9a440030f14bd31989a0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98815dd4c9eb49dbc621180162bd4add77"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985b5fb20751c97c4a01365db2be186b46"
+    }
+  ],
+  "containerPath" : "/Users/adwuserkhq/Haqim/course-code/Dicoding/Belajar Fundamental Aplikasi iOS/Movies Geek/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/adwuserkhq/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/adwuserkhq/Library/Developer/Xcode/DerivedData/Pods-dxozeptgvnilnjcfpthmedqrhfot/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/adwuserkhq/Library/Developer/Xcode/DerivedData/Pods-dxozeptgvnilnjcfpthmedqrhfot/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_Movies_Geek_Movies_GeekUITestsVersionString[];
+ extern const double Pods_Movies_Geek_Movies_GeekUITestsVersionNumber;
+
+ const unsigned char Pods_Movies_Geek_Movies_GeekUITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Movies_Geek_Movies_GeekUITests  PROJECT:Pods-1" "\n";
+ const double Pods_Movies_Geek_Movies_GeekUITestsVersionNumber __attribute__ ((used)) = (double)1.;

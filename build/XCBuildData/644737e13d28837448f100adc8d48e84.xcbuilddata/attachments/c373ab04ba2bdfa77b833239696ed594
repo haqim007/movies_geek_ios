@@ -1,0 +1,6 @@
+framework module Pods_Movies_Geek_Movies_GeekUITests {
+  umbrella header "Pods-Movies Geek-Movies GeekUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
